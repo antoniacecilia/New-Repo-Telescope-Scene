@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Telescope room_Project.unity
+    guid: 064b189c01d3c694ba91d6d7bf0a6ffb
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8212076adbd84ef4889ff8af6d63b5c1, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5cdcc4fa248235b4ebc0fa59564bf00e, type: 2}
